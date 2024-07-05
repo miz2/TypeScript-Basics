@@ -1,0 +1,11 @@
+tsc--init 
+to make a config file 
+tsc file.js
+
+to complie in watch mode
+tsc -w
+
+npm install lite-server
+
+Why interface is imp 
+they have some protocols 
